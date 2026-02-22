@@ -1,6 +1,7 @@
 # ob-screenshot
 
-A lightweight application for quickly taking screenshots in OpenBox
+A lightweight application for quickly taking screenshots in OpenBox.
+Tk and Qt variants offered.
 
 ## 🚀 Features
 - Easy screenshot capture with selection mode
@@ -16,10 +17,4 @@ A lightweight application for quickly taking screenshots in OpenBox
 ## 🛠️ Installation
 ```bash
 git clone https://github.com/w3techh/ob-screenshot.git
-
-```bash
 cd ob-screenshot
-
-```txt
-TK: python3 obs.py
-Qt: python3 obsy.py
