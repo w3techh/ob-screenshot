@@ -16,12 +16,3 @@ A lightweight application for quickly taking screenshots in OpenBox
 ```bash
 git clone https://github.com/w3techh/ob-screenshot.git
 cd ob-screenshot
-
-
-**## 🛠️ Usage**
-```bash
-python3 obs.py
-
-
-**💾 Screenshots are saved in a Screenshots folder in your Home directory.
-**
