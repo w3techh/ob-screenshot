@@ -16,3 +16,4 @@ A lightweight application for quickly taking screenshots in OpenBox
 ```bash
 git clone https://github.com/w3techh/ob-screenshot.git
 cd ob-screenshot
+python3 obs.py
