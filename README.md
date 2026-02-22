@@ -2,7 +2,7 @@
 
 A lightweight application for quickly taking screenshots in OpenBox.
 
-Tk and Qt variants offered.
+Tk and Qt variants available.
 
 ## 🚀 Features
 - Easy screenshot capture with selection mode
