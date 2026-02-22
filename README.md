@@ -14,6 +14,7 @@ Tk and Qt variants available.
 - Scrot
 - Tkinter
 - Qt
+- XClip
 
 ## 🛠️ Installation
 ```bash
