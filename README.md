@@ -3,6 +3,7 @@
 A lightweight application for quickly taking screenshots in OpenBox.
 
 Tk and Qt variants available.
+Run `clip.py` to copy a screenshot to your clipboard, making it ready for immediate use.
 
 ## 🚀 Features
 - Easy screenshot capture with selection mode
