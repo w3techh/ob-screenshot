@@ -1,6 +1,7 @@
 # ob-screenshot
 
 A lightweight application for quickly taking screenshots in OpenBox.
+
 Tk and Qt variants offered.
 
 ## 🚀 Features
