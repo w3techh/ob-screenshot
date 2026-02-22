@@ -11,6 +11,7 @@ A lightweight application for quickly taking screenshots in OpenBox
 - Python 3
 - Scrot
 - Tkinter
+- Qt
 
 ## 🛠️ Installation
 ```bash
