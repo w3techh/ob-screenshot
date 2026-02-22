@@ -15,7 +15,7 @@ Run `clip.py` to copy a screenshot to your clipboard, making it ready for immedi
 - Scrot
 - Tkinter
 - Qt
-- XClip
+- Xclip
 
 ## 🛠️ Installation
 ```bash
